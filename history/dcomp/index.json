@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "dcomp.dll",
+  "latest": "398972969-40BA7C808366C1D6852C19509B2155D3-1",
+  "builds": [
+    {
+      "key": "398972969-40BA7C808366C1D6852C19509B2155D3-1",
+      "timestamp": "398972969",
+      "pdb_guid": "40BA7C808366C1D6852C19509B2155D3",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/398972969-40BA7C808366C1D6852C19509B2155D3-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
